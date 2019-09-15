@@ -40,7 +40,7 @@ If you find this work useful in your research, please consider citing:
 2. Use `code/evaluation/evaluate_recall.m` to evaluate recall@K for image retrieval.
 
 ## Stanford Online Products dataset
-You can download the Stanford Online Products dataset (2.9G) from https://drive.google.com/uc?export=download&id=1TclrpQOF_ullUP99wk_gjGN8pKvtErG8
+You can download the Stanford Online Products dataset (2.9G) from ftp://cs.stanford.edu/cs/cvgl/Stanford_Online_Products.zip or https://drive.google.com/uc?export=download&id=1TclrpQOF_ullUP99wk_gjGN8pKvtErG8
 * We also have the text meta data for each product images. Please let us know if you're interested in using them.
 
 ## Our Pre-trained Models
